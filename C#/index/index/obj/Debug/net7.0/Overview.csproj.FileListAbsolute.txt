@@ -1,0 +1,15 @@
+/Users/tik/Desktop/C#/index/index/bin/Debug/net7.0/Overview
+/Users/tik/Desktop/C#/index/index/bin/Debug/net7.0/Overview.deps.json
+/Users/tik/Desktop/C#/index/index/bin/Debug/net7.0/Overview.runtimeconfig.json
+/Users/tik/Desktop/C#/index/index/bin/Debug/net7.0/Overview.dll
+/Users/tik/Desktop/C#/index/index/bin/Debug/net7.0/Overview.pdb
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.csproj.AssemblyReference.cache
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.AssemblyInfoInputs.cache
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.AssemblyInfo.cs
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.csproj.CoreCompileInputs.cache
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.dll
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/refint/Overview.dll
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.pdb
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/Overview.genruntimeconfig.cache
+/Users/tik/Desktop/C#/index/index/obj/Debug/net7.0/ref/Overview.dll
